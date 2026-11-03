@@ -1,0 +1,26 @@
+STL translation to Solid Edge
+Date: Wednesday,July 30,2025 12:55PM
+Source File:C:\Users\Kirill\Documents\SE-Vault\Front left idler.stl
+Author: Unknown
+Organization: Unknown
+Source System: DEX
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
+Operating System: Windows 10 Professional
+Installed Memory: 7.94 GB
+
+Software Information:
+Parasolid Version: 37.0.192
+PSBodyshop Version: 37.0.94
+STL Adapter Version: 15.0.142
+Solid Edge Version: 225.00.06.003 x64
+
+STL Import Options
+Heal Mesh Faults:Off
+Make Base Feature:On
+Enable Logging:On
+
+Translation progress:
+Translation process completed
+Time required to translate:00 : 00 : 00
